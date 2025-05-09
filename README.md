@@ -6,3 +6,8 @@ The file can be made available online through various platforms.
 ## This is a subheading
 
 Always commit your changes in git after making them
+
+## Local Dvelopment
+
+1. Open index.html in your browser.
+
